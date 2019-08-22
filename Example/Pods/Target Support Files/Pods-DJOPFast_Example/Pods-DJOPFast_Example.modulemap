@@ -1,0 +1,6 @@
+framework module Pods_DJOPFast_Example {
+  umbrella header "Pods-DJOPFast_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

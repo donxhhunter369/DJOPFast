@@ -1,0 +1,16 @@
+PODS:
+  - DJOPFast (0.1.0)
+
+DEPENDENCIES:
+  - DJOPFast (from `../`)
+
+EXTERNAL SOURCES:
+  DJOPFast:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DJOPFast: 58dda2bace58b0958d015c4a2757134da21ff448
+
+PODFILE CHECKSUM: 08eb6d9b9ac99ea40b7a10f8cb3ae2d1a3751a28
+
+COCOAPODS: 1.8.0.beta.1
