@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DJOPFast_Example' do
+  pod 'DJOPFast', :path => '../'
+
+  target 'DJOPFast_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
