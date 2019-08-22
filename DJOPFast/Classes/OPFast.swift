@@ -6,3 +6,5 @@
 //
 
 import Foundation
+
+public let number = 0;
